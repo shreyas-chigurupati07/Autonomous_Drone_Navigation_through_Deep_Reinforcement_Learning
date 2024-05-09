@@ -30,9 +30,9 @@ To run the code use following instructions.
 
 ### Demo Videos
 View the demo videos:
-1. No Obstacle
-2. One Obstacle
-3. Multiple Obstacles
+1. No Obstacle - On the Left 
+2. One Obstacle - In the Center
+3. Multiple Obstacles - On the Right
 
 
 https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/assets/84034817/d8429722-9c28-40db-b4d7-27e17966c934
