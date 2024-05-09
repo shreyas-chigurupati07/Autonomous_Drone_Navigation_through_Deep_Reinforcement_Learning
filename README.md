@@ -28,9 +28,9 @@ To run the code use following instructions.
 
 ## Output
 
+### Demo Videos
+View the demo videos: <a href="https://github.com/your-username/your-repo-name/blob/master/videos/demo1.mp4">Demo 1</a> | <a href="https://github.com/your-username/your-repo-name/blob/master/videos/demo2.mp4">Demo 2</a> | <a href="https://github.com/your-username/your-repo-name/blob/master/videos/demo3.mp4">Demo 3</a>
 
-
-https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/assets/84034817/5d11b5b0-bfbd-40b1-aeae-37e5f6930b4b
 
 
 
