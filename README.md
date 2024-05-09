@@ -35,13 +35,8 @@ View the demo videos:
 <img src="media/realmap1.PNG" />
 </p>
 
-<p float="middle">
-	<img src="media/realmap1_frontview.gif" width="350" height="350" title="Front view"/> 
-	<img src="media/realmap1_sideview.gif" width="350" height="350" title="Side View"/>
-</p>
-
 <p align="center">
-    <img src="Output/1.mp4" width="350" height="350/" title="Front view">
+    <img src="Output/1.mp4" width="350" height="350" title="Front view">
     <img src="Output/2.mp4" alt="Demo 2" width="30%"/>
     <img src="Output/1.mp4" alt="Demo 3" width="30%"/>
 </p>
