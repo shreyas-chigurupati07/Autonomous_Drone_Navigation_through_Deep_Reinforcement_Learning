@@ -32,7 +32,7 @@ To run the code use following instructions.
 View the demo videos: 
 
 <div align="center">
-    <video src="Output/1.mp4" alt="Demo 1" width="30%"/>
+    <video src="Output/1.mp4">
     <video src="Output/2.mp4" alt="Demo 2" width="30%"/>
     <video src="Output/1.mp4" alt="Demo 3" width="30%"/>
 </div>
