@@ -29,7 +29,7 @@ To run the code use following instructions.
 ## Output
 
 ### Demo Videos
-View the demo videos: <a href="https://github.com/your-username/your-repo-name/blob/master/videos/demo1.mp4">Demo 1</a> | <a href="https://github.com/your-username/your-repo-name/blob/master/videos/demo2.mp4">Demo 2</a> | <a href="https://github.com/your-username/your-repo-name/blob/master/videos/demo3.mp4">Demo 3</a>
+View the demo videos: <a href="https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/tree/main/Output/1.mp4">Demo 1</a> | <a https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/tree/main/Output/2.mp4">Demo 2</a> | <a https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/tree/main/Output/3.mp4">Demo 3</a>
 
 
 
