@@ -30,7 +30,7 @@ To run the code use following instructions.
 
 ### Demo Videos
 View the demo videos: 
-
+<video src="Output/1.mp4">
 <div align="center">
     <video src="Output/1.mp4">
     <video src="Output/2.mp4" alt="Demo 2" width="30%"/>
