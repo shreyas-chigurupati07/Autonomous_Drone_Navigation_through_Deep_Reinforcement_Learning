@@ -31,11 +31,11 @@ To run the code use following instructions.
 ### Demo Videos
 View the demo videos: 
 
-<p align="center">
-    <video src="1.mp4" width="350" height="350" title="Front view">
+<div align="center">
+    <video src="Output/1.mp4" alt="Demo 1" width="30%"/">
     <video src="Output/2.mp4" alt="Demo 2" width="30%"/>
     <video src="Output/1.mp4" alt="Demo 3" width="30%"/>
-</p>
+</div>
 
 
 
