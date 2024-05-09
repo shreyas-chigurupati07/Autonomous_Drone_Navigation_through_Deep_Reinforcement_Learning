@@ -32,7 +32,7 @@ To run the code use following instructions.
 View the demo videos: 
 
 <p align="center">
-    <img src="Output/1.mp4" width="350" height="350" title="Front view">
+    <img src="1.mp4" width="350" height="350" title="Front view">
     <img src="Output/2.mp4" alt="Demo 2" width="30%"/>
     <img src="Output/1.mp4" alt="Demo 3" width="30%"/>
 </p>
