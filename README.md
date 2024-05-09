@@ -31,9 +31,6 @@ To run the code use following instructions.
 ### Demo Videos
 View the demo videos: 
 
-<p>
-  1. With No Obstacle
-</p>
 https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/assets/84034817/a350cb58-5a5c-40db-91f9-49367e3c3481
 
 
