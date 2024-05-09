@@ -6,8 +6,8 @@ This project implements a Deep Q-Network (DQN) to autonomously navigate drones i
 
 ## Features
 
-Reinforcement Learning: Uses a DQN model to handle decision-making in navigating through simulated environments.\
-AirSim Simulation: Leverages the AirSim simulation environment to provide a realistic and versatile testing ground for autonomous drone behaviors.\
+**Reinforcement Learning:** Uses a DQN model to handle decision-making in navigating through simulated environments.\
+**Unreal Engine and AirSim Simulation:** Leverages the Unreal Engine and AirSim simulation environment to provide a realistic and versatile testing ground for autonomous drone behaviors.\
 Customizable Training Scenarios: Includes settings to adjust the complexity and parameters of the training environments.
 
 
@@ -18,11 +18,11 @@ OpenAI Gym\
 **Note:** Check the **requirements.txt** file for all the dependencies
 
 ## Setup
-To run the code use following instructions.\
-1. Unzip the custom block environment and source code repo.\
-2. Lauch custom environment- RBE595_V2\WindowsNoEditor\Blocks\
+To run the code use following instructions.
+1. Unzip the custom block environment and source code repo.
+2. Lauch custom environment- RBE595_V2\WindowsNoEditor\Blocks
 3. cd .\AirSim-main\PythonClient\reinforcement_learning\
-4. To train the mdoel use following cmd,  'python .\dqn_drone.py'\
+4. To train the mdoel use following cmd,  'python .\dqn_drone.py'
 5. To run the inference on saved checkpoint use following cmd, 'python .\dqn_inf.py'\
 
 
