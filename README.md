@@ -29,7 +29,10 @@ To run the code use following instructions.
 ## Output
 
 ### Demo Videos
-View the demo videos: 
+View the demo videos:
+1. No Obstacle
+2. One Obstacle
+3. Multiple Obstacles
 
 
 https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/assets/84034817/d8429722-9c28-40db-b4d7-27e17966c934
