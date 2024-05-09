@@ -30,16 +30,20 @@ To run the code use following instructions.
 
 ### Demo Videos
 View the demo videos: 
+
+<p float="middle">
+<img src="media/realmap1.PNG" />
+</p>
+
+<p float="middle">
+	<img src="media/realmap1_frontview.gif" width="350" height="350" title="Front view"/> 
+	<img src="media/realmap1_sideview.gif" width="350" height="350" title="Side View"/>
+</p>
+
 <p align="center">
-  <a href="https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/blob/main/Output/1.mp4">
-    <img src="https://path_to_your_thumbnail_or_play_icon/1.png" alt="Demo 1" width="30%">
-  </a>
-  <a href="https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/blob/main/Output/2.mp4">
-    <img src="https://path_to_your_thumbnail_or_play_icon/2.png" alt="Demo 2" width="30%">
-  </a>
-  <a href="https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/blob/main/Output/3.mp4">
-    <img src="https://path_to_your_thumbnail_or_play_icon/3.png" alt="Demo 3" width="30%">
-  </a>
+    <img src="Output/1.mp4" alt="Demo 1" width="30%">
+    <img src="Output/2.mp4" alt="Demo 2" width="30%">
+    <img src="Output/1.mp4" alt="Demo 3" width="30%">
 </p>
 
 
