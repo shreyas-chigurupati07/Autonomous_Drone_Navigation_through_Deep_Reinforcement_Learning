@@ -31,17 +31,18 @@ To run the code use following instructions.
 ### Demo Videos
 View the demo videos: 
 
+1. With No Obstacle
 https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/assets/84034817/a350cb58-5a5c-40db-91f9-49367e3c3481
 
 
 
-
+2. With One Obstacle
 https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/assets/84034817/e8aa6be2-0ad3-431a-b954-0662da5dcde4
 
 
 
 
-
+3. With Multiple Obstacles
 https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/assets/84034817/6c9e8d2e-eb6c-48fe-8ae7-70e8bde922ab
 
 
