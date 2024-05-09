@@ -31,10 +31,6 @@ To run the code use following instructions.
 ### Demo Videos
 View the demo videos: 
 
-<p float="middle">
-<img src="media/realmap1.PNG" />
-</p>
-
 <p align="center">
     <img src="Output/1.mp4" width="350" height="350" title="Front view">
     <img src="Output/2.mp4" alt="Demo 2" width="30%"/>
