@@ -30,15 +30,11 @@ To run the code use following instructions.
 
 ### Demo Videos
 View the demo videos: 
-<video src="Output/1.mp4">
-<div align="center">
-    <video src="Output/1.mp4">
-    <video src="Output/2.mp4" alt="Demo 2" width="30%"/>
-    <video src="Output/1.mp4" alt="Demo 3" width="30%"/>
-</div>
 
-
-
+<p>
+    <a href="https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/assets/84034817/a350cb58-5a5c-40db-91f9-49367e3c3481"
+    </a>
+</p>
 https://github.com/shreyas-chigurupati07/Autonomous_Drone_Navigation_through_Deep_Reinforcement_Learning/assets/84034817/a350cb58-5a5c-40db-91f9-49367e3c3481
 
 
